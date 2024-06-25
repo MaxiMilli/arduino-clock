@@ -31,6 +31,21 @@ Lautsprecher
     SPK_2 --> Lautsprecher 2
 
 
+Schrittmotor 1: Stunde
+
+    IN1 zu Arduino D4
+    IN2 zu Arduino D5
+    IN3 zu Arduino D6
+    IN4 zu Arduino D7
+
+Schrittmotor 2: Minute
+
+    IN1 zu Arduino D8
+    IN2 zu Arduino D9
+    IN3 zu Arduino D12
+    IN4 zu Arduino D13
+
+
 # SD Karte
 
 Auf der SD-Karte müssen alle MP3s folgendermassen abgespeichert werden:
