@@ -5,7 +5,7 @@
 - [GPS Modul (für Zeit)](https://www.bastelgarage.ch/gps-modul-neo-6m-kompatibel?search=neo-6m)
 - [SD Karte 256MB](https://www.bastelgarage.ch/256mb-microsd-karte)
 - [Lautsprecher (max 3W)](https://www.bastelgarage.ch/lautsprecher-4ohm-3w-40mm)
-
+- [Netzteil](https://www.digitec.ch/de/s1/product/raspberry-pi-official-raspberry-pi-4-power-adapter-usb-c-schwarz-entwicklungsboard-zubehoer-11268330)
 
 
 # Anschlüsse
